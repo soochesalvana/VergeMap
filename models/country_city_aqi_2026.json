@@ -1,0 +1,317 @@
+{
+    "Argentina": {
+        "Buenos Aires": 141.22,
+        "Cordoba": 135.33,
+        "La Plata": 134.06,
+        "Mendoza": 126.9,
+        "Rosario": 131.96
+    },
+    "Australia": {
+        "Adelaide": 40.56,
+        "Brisbane": 40.64,
+        "Melbourne": 40.72,
+        "Perth": 40.87,
+        "Sydney": 41.03
+    },
+    "Bangladesh": {
+        "Chittagong": 245.31,
+        "Dhaka": 247.08,
+        "Khulna": 248.59,
+        "Rajshahi": 244.45,
+        "Sylhet": 247.03
+    },
+    "Brazil": {
+        "Brasilia": 134.97,
+        "Fortaleza": 140.35,
+        "Rio de Janeiro": 137.2,
+        "Salvador": 136.21,
+        "Sao Paulo": 132.13
+    },
+    "Canada": {
+        "Calgary": 40.3,
+        "Montreal": 40.42,
+        "Ottawa": 40.79,
+        "Toronto": 40.36,
+        "Vancouver": 41.33
+    },
+    "Chile": {
+        "Antofagasta": 136.98,
+        "Concepcion": 133.36,
+        "Santiago": 131.11,
+        "Temuco": 137.02,
+        "Valparaiso": 133.82
+    },
+    "China": {
+        "Beijing": 247.88,
+        "Chengdu": 253.09,
+        "Guangzhou": 247.98,
+        "Shanghai": 250.0,
+        "Shenzhen": 246.83
+    },
+    "Colombia": {
+        "Barranquilla": 134.47,
+        "Bogota": 137.78,
+        "Cali": 131.57,
+        "Cartagena": 132.75,
+        "Medellin": 133.42
+    },
+    "Egypt": {
+        "Alexandria": 245.81,
+        "Aswan": 253.94,
+        "Cairo": 242.17,
+        "Giza": 250.48,
+        "Luxor": 246.54
+    },
+    "Ethiopia": {
+        "Addis Ababa": 107.97,
+        "Dire Dawa": 105.08,
+        "Gondar": 107.11,
+        "Harar": 108.08,
+        "Mekelle": 108.52
+    },
+    "France": {
+        "Lyon": 40.91,
+        "Marseille": 41.25,
+        "Nice": 41.54,
+        "Paris": 41.16,
+        "Toulouse": 41.44
+    },
+    "Germany": {
+        "Berlin": 40.5,
+        "Cologne": 40.2,
+        "Frankfurt": 41.39,
+        "Hamburg": 40.97,
+        "Munich": 40.34
+    },
+    "Ghana": {
+        "Accra": 135.6,
+        "Cape Coast": 135.87,
+        "Kumasi": 136.71,
+        "Sekondi": 132.3,
+        "Tamale": 128.77
+    },
+    "India": {
+        "Bangalore": 249.6,
+        "Chennai": 250.47,
+        "Delhi": 244.37,
+        "Kolkata": 243.28,
+        "Mumbai": 251.66
+    },
+    "Indonesia": {
+        "Bandung": 132.35,
+        "Jakarta": 137.24,
+        "Makassar": 134.08,
+        "Medan": 129.87,
+        "Surabaya": 139.49
+    },
+    "Iran": {
+        "Isfahan": 245.9,
+        "Karaj": 249.38,
+        "Mashhad": 250.51,
+        "Tabriz": 249.19,
+        "Tehran": 249.54
+    },
+    "Iraq": {
+        "Baghdad": 244.04,
+        "Basra": 251.11,
+        "Erbil": 248.85,
+        "Mosul": 246.38,
+        "Najaf": 245.6
+    },
+    "Italy": {
+        "Milan": 40.82,
+        "Naples": 39.79,
+        "Palermo": 40.42,
+        "Rome": 41.15,
+        "Turin": 40.79
+    },
+    "Japan": {
+        "Kyoto": 40.82,
+        "Nagoya": 40.48,
+        "Osaka": 39.75,
+        "Tokyo": 40.03,
+        "Yokohama": 41.09
+    },
+    "Kenya": {
+        "Eldoret": 108.88,
+        "Kisumu": 106.91,
+        "Mombasa": 109.29,
+        "Nairobi": 107.21,
+        "Nakuru": 110.83
+    },
+    "Mexico": {
+        "Guadalajara": 135.45,
+        "Mexico City": 140.65,
+        "Monterrey": 136.65,
+        "Puebla": 135.87,
+        "Tijuana": 131.66
+    },
+    "Mongolia": {
+        "Choibalsan": 247.39,
+        "Darkhan": 250.77,
+        "Erdenet": 250.24,
+        "Murun": 249.86,
+        "Ulaanbaatar": 246.57
+    },
+    "Morocco": {
+        "Casablanca": 127.0,
+        "Fez": 135.61,
+        "Marrakech": 135.78,
+        "Rabat": 130.43,
+        "Tangier": 137.28
+    },
+    "Myanmar": {
+        "Bago": 251.06,
+        "Mandalay": 249.54,
+        "Mawlamyine": 249.73,
+        "Naypyidaw": 250.81,
+        "Yangon": 247.47
+    },
+    "Netherlands": {
+        "Amsterdam": 40.23,
+        "Eindhoven": 40.94,
+        "Rotterdam": 40.07,
+        "The Hague": 41.19,
+        "Utrecht": 40.06
+    },
+    "Nigeria": {
+        "Abuja": 248.88,
+        "Ibadan": 250.22,
+        "Kano": 249.2,
+        "Lagos": 248.43,
+        "Port Harcourt": 250.74
+    },
+    "Norway": {
+        "Bergen": 41.07,
+        "Kristiansand": 40.49,
+        "Oslo": 40.28,
+        "Stavanger": 40.44,
+        "Trondheim": 40.68
+    },
+    "Pakistan": {
+        "Faisalabad": 249.93,
+        "Islamabad": 246.73,
+        "Karachi": 247.38,
+        "Lahore": 248.15,
+        "Rawalpindi": 245.58
+    },
+    "Peru": {
+        "Arequipa": 133.67,
+        "Chiclayo": 134.65,
+        "Cusco": 132.53,
+        "Lima": 131.44,
+        "Trujillo": 131.17
+    },
+    "Philippines": {
+        "Cebu City": 135.33,
+        "Davao": 133.47,
+        "Manila": 136.82,
+        "Quezon City": 135.3,
+        "Zamboanga": 134.98
+    },
+    "Poland": {
+        "Gdansk": 133.52,
+        "Krakow": 135.31,
+        "Poznan": 136.29,
+        "Warsaw": 126.84,
+        "Wroclaw": 139.62
+    },
+    "Romania": {
+        "Bucharest": 134.76,
+        "Cluj-Napoca": 134.44,
+        "Constanta": 129.62,
+        "Iasi": 140.1,
+        "Timisoara": 129.13
+    },
+    "Russia": {
+        "Kazan": 133.7,
+        "Moscow": 131.92,
+        "Novosibirsk": 132.64,
+        "Saint Petersburg": 128.79,
+        "Yekaterinburg": 134.01
+    },
+    "Saudi Arabia": {
+        "Dammam": 119.97,
+        "Jeddah": 128.73,
+        "Mecca": 131.85,
+        "Medina": 128.7,
+        "Riyadh": 129.01
+    },
+    "South Africa": {
+        "Cape Town": 128.61,
+        "Durban": 135.85,
+        "Johannesburg": 141.06,
+        "Port Elizabeth": 132.32,
+        "Pretoria": 133.12
+    },
+    "Spain": {
+        "Barcelona": 40.35,
+        "Bilbao": 40.57,
+        "Madrid": 39.87,
+        "Seville": 40.61,
+        "Valencia": 39.68
+    },
+    "Sweden": {
+        "Gothenburg": 40.57,
+        "Malmo": 40.09,
+        "Stockholm": 40.03,
+        "Uppsala": 40.41,
+        "Vasteras": 40.63
+    },
+    "Tanzania": {
+        "Arusha": 104.46,
+        "Dar es Salaam": 109.06,
+        "Dodoma": 103.88,
+        "Mbeya": 107.38,
+        "Mwanza": 109.14
+    },
+    "Thailand": {
+        "Bangkok": 137.33,
+        "Chiang Mai": 126.39,
+        "Khon Kaen": 127.9,
+        "Pattaya": 129.98,
+        "Phuket": 135.36
+    },
+    "Turkey": {
+        "Adana": 138.18,
+        "Ankara": 129.05,
+        "Bursa": 132.89,
+        "Istanbul": 135.54,
+        "Izmir": 132.12
+    },
+    "UAE": {
+        "Abu Dhabi": 136.27,
+        "Ajman": 129.4,
+        "Al Ain": 127.46,
+        "Dubai": 135.29,
+        "Sharjah": 132.94
+    },
+    "UK": {
+        "Birmingham": 40.31,
+        "Glasgow": 40.36,
+        "Liverpool": 40.06,
+        "London": 39.82,
+        "Manchester": 40.41
+    },
+    "USA": {
+        "Chicago": 40.1,
+        "Houston": 40.33,
+        "Los Angeles": 39.91,
+        "New York": 40.02,
+        "Phoenix": 40.37
+    },
+    "Ukraine": {
+        "Dnipro": 135.14,
+        "Kharkiv": 132.83,
+        "Kyiv": 126.11,
+        "Lviv": 141.94,
+        "Odessa": 131.55
+    },
+    "Vietnam": {
+        "Can Tho": 132.97,
+        "Da Nang": 132.59,
+        "Hai Phong": 128.9,
+        "Hanoi": 134.52,
+        "Ho Chi Minh City": 133.15
+    }
+}
